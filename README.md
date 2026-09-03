@@ -60,12 +60,5 @@ Service Ticket Creation
 AI-generated Response
 
 
-Author
-
-Riya Pandey
-Aspiring AI / Generative AI Engineer
-
-GitHub: https://github.com/riya3564
-LinkedIn: https://www.linkedin.com/in/riya-pandey-0733a429<img width="1600" height="900" alt="WhatsApp Image 2026-09-03 at 2 58 42 AM" 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4b33c164-a3ba-4830-840d-aa99bef66d3d" />
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/434386ed-789a-4a24-a8de-bcce7b426fed" />
 
