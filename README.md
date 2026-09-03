@@ -48,17 +48,21 @@ AI Response
 
 
 Main ai work flow
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/e9503718-f555-4444-8598-a958e85136cb" />
 
 Customer Request
  ↓
 Customer Lookup
- ↓
+ 
+<img width="1600" height="900" alt="WhatsApp Image 2026-09-03 at 2 52 21 AM" src="https://github.com/user-attachments/assets/bc708660-3a23-45be-841d-05e018a4acb5" />
+
 Warranty Verification
- ↓
+ <img width="1600" height="900" alt="WhatsApp Image 2026-09-03 at 2 44 54 AM" src="https://github.com/user-attachments/assets/6002f08c-67cf-413f-b7d3-d34162a38b5c" />
+
 Service Ticket Creation
- ↓
+ <img width="1600" height="900" alt="WhatsApp Image 2026-09-03 at 2 58 42 AM" src="https://github.com/user-attachments/assets/cf9d470d-d8cd-4a96-b629-94aba933d041" />
+
 AI-generated Response
 
 
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/434386ed-789a-4a24-a8de-bcce7b426fed" />
 
