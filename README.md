@@ -31,7 +31,7 @@ The system uses **Generative AI and tool calling** to automate customer-support 
 
 ## Architecture
 
-```text
+text
 User
  ↓
 React Frontend
@@ -66,9 +66,6 @@ Riya Pandey
 Aspiring AI / Generative AI Engineer
 
 GitHub: https://github.com/riya3564
-LinkedIn: https://www.linkedin.com/in/riya-pandey-0733a429<img width="1600" height="900" alt="WhatsApp Image 2026-09-03 at 2 58 42 AM" src="https://github.com/user-attachments/assets/a0bd115b-ca71-41c4-8ff5-e5f69a399137" />
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-03 at 2 53 59 AM" src="https://github.com/user-attachments/assets/b37f314c-f439-4ca2-90cf-19e77e61d923" />
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-03 at 2 52 21 AM" src="https://github.com/user-attachments/assets/26a27dee-38a8-49a2-88f4-0e5b19e3b161" />
-<img width="1600" height="900" alt="WhatsApp Image 2026-09-03 at 2 44 54 AM" src="https://github.com/user-attachments/assets/31a504ae-02df-4b87-ba77-6a11ee15a369" />
-<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/6e0c5cbd-c766-42ed-acec-dd764cda21df" />
+LinkedIn: https://www.linkedin.com/in/riya-pandey-0733a429<img width="1600" height="900" alt="WhatsApp Image 2026-09-03 at 2 58 42 AM" 
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/4b33c164-a3ba-4830-840d-aa99bef66d3d" />
 
